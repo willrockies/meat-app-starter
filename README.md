@@ -145,3 +145,7 @@ Dependências dos pacotes que devem ficar em package.json:
 ## Créditos
 
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
+
+## start db.json localhost:3000
+
+json-server db.json
